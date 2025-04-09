@@ -12,14 +12,16 @@ The trend values are based on [Double Exponential Smoothing](https://en.wikipedi
 
 ⚠️ **ATTENTION**: the trend values should not be used for any medical decision: they show just the trend of the blood glucose curve and are completely unaware of the external conditions (for example, if insulin has been administered, or carbohydrates have been ingested).
 
-![image](https://github.com/user-attachments/assets/3abfecca-6b31-4c48-add1-e5205d524302)
+![image](./diabeatthis-demo-mgdL.png)
 
 ## Project setup
+
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
 npm run serve
 ```
